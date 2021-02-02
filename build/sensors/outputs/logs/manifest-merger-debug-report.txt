@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/hakkicansengonul/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sensors-0.4.2+6/android/src/main/AndroidManifest.xml
