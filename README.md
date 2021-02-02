@@ -3,4 +3,4 @@
 #Dicee flutter aplication
 
 
-![Finished App](https://github.com/hakkicansengonul/demo/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/hakkicansengonul/images/blob/master/dicee.app.gif)
